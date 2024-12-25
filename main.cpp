@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> // Программа является учебной.
 
 using namespace std;
 
